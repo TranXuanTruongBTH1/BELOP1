@@ -1,0 +1,85 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CayLapBu
+build_property.RootNamespace = CayLapBu
+build_property.ProjectDir = C:\Users\LAPTOP THANH DU\Desktop\CayLapBu\CayLapBu\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\LAPTOP THANH DU\Desktop\CayLapBu\CayLapBu
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/LAPTOP THANH DU/Desktop/CayLapBu/CayLapBu/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LAPTOP THANH DU/Desktop/CayLapBu/CayLapBu/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LAPTOP THANH DU/Desktop/CayLapBu/CayLapBu/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LAPTOP THANH DU/Desktop/CayLapBu/CayLapBu/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LAPTOP THANH DU/Desktop/CayLapBu/CayLapBu/Views/TXTLopHoc/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVFhUTG9wSG9jXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LAPTOP THANH DU/Desktop/CayLapBu/CayLapBu/Views/TXTLopHoc/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVFhUTG9wSG9jXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LAPTOP THANH DU/Desktop/CayLapBu/CayLapBu/Views/TXTLopHoc/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVFhUTG9wSG9jXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LAPTOP THANH DU/Desktop/CayLapBu/CayLapBu/Views/TXTLopHoc/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVFhUTG9wSG9jXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LAPTOP THANH DU/Desktop/CayLapBu/CayLapBu/Views/TXTLopHoc/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVFhUTG9wSG9jXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LAPTOP THANH DU/Desktop/CayLapBu/CayLapBu/Views/TXTSinhVien/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVFhUU2luaFZpZW5cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LAPTOP THANH DU/Desktop/CayLapBu/CayLapBu/Views/TXTSinhVien/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVFhUU2luaFZpZW5cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LAPTOP THANH DU/Desktop/CayLapBu/CayLapBu/Views/TXTSinhVien/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVFhUU2luaFZpZW5cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LAPTOP THANH DU/Desktop/CayLapBu/CayLapBu/Views/TXTSinhVien/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVFhUU2luaFZpZW5cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LAPTOP THANH DU/Desktop/CayLapBu/CayLapBu/Views/TXTSinhVien/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVFhUU2luaFZpZW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LAPTOP THANH DU/Desktop/CayLapBu/CayLapBu/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LAPTOP THANH DU/Desktop/CayLapBu/CayLapBu/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LAPTOP THANH DU/Desktop/CayLapBu/CayLapBu/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-wlgbwd7k5t
